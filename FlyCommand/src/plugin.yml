@@ -1,0 +1,8 @@
+name: FlyCommand
+version: 1.0
+author: philipperhult
+main: me.philipperhult.flycommand.Main
+description: Command to fly
+
+commands:
+  fly:
