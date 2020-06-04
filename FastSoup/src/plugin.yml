@@ -1,0 +1,5 @@
+name: FastSoup
+version: 1.0
+author: philipperhult
+main: me.philipperhult.fastsoup.Main
+description: Action to instantly eat a soup and get healed
