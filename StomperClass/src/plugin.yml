@@ -1,0 +1,5 @@
+name: StomperClass
+version: 1.0
+author: philipperhult
+main: me.philipperhult.stomperclass.Main
+description: Adds the Stomper effect seen from McPvP
